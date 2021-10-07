@@ -1,2 +1,0 @@
-# jenkins-practice
-# jenkins-practice
